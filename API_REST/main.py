@@ -1,3 +1,6 @@
+#Desarrollado en colaboración entre el compañero Guillermo Arjona y mi persona
+
+
 from website import create_app
 import yagmail,os
 from flask_sqlalchemy import SQLAlchemy
